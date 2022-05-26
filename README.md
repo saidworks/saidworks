@@ -1,1 +1,1 @@
-[![Zitouni's GitHub Banner](./images/Clean Work Place LinkedIn Banner.png)](#)
+[![Zitouni's GitHub Banner](./images/github-banner.png.png)](#)
