@@ -15,6 +15,4 @@ I believe that technologies are just a tool and I am open to learn and work usin
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saidworks&theme=algolia" alt="saidworks"  /></p>
-  <br />
-<p>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidworks&layout=compact&theme=dark" alt="top-langs" /></p>
+<p  style="font-family: 'Lucida Console';text-align:center;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saidworks&theme=algolia" alt="saidworks"  /></p>
