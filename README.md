@@ -1,8 +1,5 @@
 [![Zitouni's GitHub Banner](./images/github-banner.png)](#)
 
-<p>Connect with me on
-<hr>
-
 [![Visits Badge](https://badges.pufler.dev/visits/saidworks/saidworks)](#)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/saidworks)](#)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ZITOUNISaid/)
