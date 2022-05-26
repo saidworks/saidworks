@@ -1,1 +1,1 @@
-[[![Zitouni's GitHub Banner](./images/github-banner.png)](#)
+[![Zitouni's GitHub Banner](./images/github-banner.png)](#)
