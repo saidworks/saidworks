@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **python, java ,sql, php or javascript**
 
-- ⚡ Fun fact **I like and collect** ![fa-pen](pen-solid.svg)
+- ⚡ Fun fact **I like and collect** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/b452a2c086a5e3f319df61b1ce1db7d8e1ad2b7c/svgs/solid/pen.svg" width="50" height="
 
 ## 🔥 Streak Stats
 
