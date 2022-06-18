@@ -12,9 +12,9 @@
 <h1 align="center">Hi 👋, I'm Said Zitouni</h1>
 <h3 align="center">A passionate software Engineer</h3>
 
-- 🔭 I’m currently working on [A web app using flask](https://saidfirstflaskapp.herokuapp.com/)
+- 🔭 I’m currently working on [A web app using flask](https://saidfirstflaskapp.herokuapp.com/) and Job Listing platform
 
-- 🌱 I’m currently learning **spring framework and angular**
+- 🌱 I’m currently learning **spring framework,angular and having some fun with flask and express recently**
 
 - 💬 Ask me about **python, java ,sql, php or javascript**
 
