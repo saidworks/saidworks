@@ -12,11 +12,7 @@
 <h1 align="center">Hi 👋, I'm Said Zitouni</h1>
 <h3 align="center">A passionate software Engineer</h3>
 
-- 🔭 I’m currently working on [A web app using flask](https://saidfirstflaskapp.herokuapp.com/) and Job Listing platform
-
-- 🌱 I’m currently learning **spring framework,angular and having some fun with flask and express recently**
-
-- 💬 Ask me about **python, java ,sql, php or javascript**
+- 🔭 I’m currently working as a software engineer II at Autodesk.
 
 - ⚡ Fun fact **I like and collect** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/b452a2c086a5e3f319df61b1ce1db7d8e1ad2b7c/svgs/solid/pen.svg" color="grey" width="20" height="20">
 
