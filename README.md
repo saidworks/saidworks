@@ -92,8 +92,8 @@
 <p align="left">
     <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/> </a>
     <a href="https://snyk.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/snyk.svg" alt="snyk" width="40" height="40"/> </a>
-    <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/burp-suite.svg" alt="burpsuite" width="40" height="40"/> </a>
-    <a href="https://aquasecurity.github.io/trivy/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/trivy.svg" alt="trivy" width="40" height="40"/> </a>
+    <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <span style="font-size:18px; font-weight:bold; vertical-align:middle;">🛡️ BurpSuite</span> </a>
+    <a href="https://aquasecurity.github.io/trivy/" target="_blank" rel="noreferrer"> <span style="font-size:18px; font-weight:bold; vertical-align:middle;">🔍 Trivy</span> </a>
 </p>
 
 ### 🤖 AI Tools & Frameworks
