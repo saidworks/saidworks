@@ -102,7 +102,7 @@
     <a href="https://spring.io/projects/spring-ai" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-ai" width="40" height="40"/> </a>
     <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" alt="github-copilot" width="40" height="40"/> </a>
     <a href="https://cursor.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" alt="cursor" width="40" height="40"/> </a>
-    <a href="https://kiro.so/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/164145421" alt="kiro" width="40" height="40"/> </a>
+    <a href="https://kiro.so/" target="_blank" rel="noreferrer"> <img src="https://kiro.dev/favicon.ico" alt="kiro" width="40" height="40"/> </a>
     <a href="https://github.com/block/goose" target="_blank" rel="noreferrer"> <img src="https://goose.block.garden/favicon.ico" alt="goose" width="40" height="40"/> </a>
     <a href="https://github.com/ggerganov/llama.cpp" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/50412699" alt="llama.cpp" width="40" height="40"/> </a>
     <a href="https://ollama.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" alt="ollama" width="40" height="40"/> </a>
