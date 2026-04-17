@@ -98,14 +98,14 @@
 
 ### 🤖 AI Tools & Frameworks
 <p align="left">
-    <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <span style="font-size:20px; font-weight:bold; color:#1f77b4;">🦜⛓️ LangChain</span> </a>
-    <a href="https://spring.io/projects/spring-ai" target="_blank" rel="noreferrer" style="margin-left:20px;"> <span style="font-size:20px; font-weight:bold; color:#6db33f;">🤖 Spring AI</span> </a>
-    <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer" style="margin-left:20px;"> <span style="font-size:20px; font-weight:bold;">🛠️ GitHub Copilot</span> </a>
-    <a href="https://cursor.sh/" target="_blank" rel="noreferrer" style="margin-left:20px;"> <span style="font-size:20px; font-weight:bold;">⚡ Cursor</span> </a>
-    <a href="https://kiro.so/" target="_blank" rel="noreferrer" style="margin-left:20px;"> <span style="font-size:20px; font-weight:bold;">🤖 Kiro</span> </a>
-    <a href="https://github.com/block/goose" target="_blank" rel="noreferrer" style="margin-left:20px;"> <span style="font-size:20px; font-weight:bold;">🪿 Goose</span> </a>
-    <a href="https://github.com/ggerganov/llama.cpp" target="_blank" rel="noreferrer" style="margin-left:20px;"> <span style="font-size:20px; font-weight:bold;">🦙 Llama.cpp</span> </a>
-    <a href="https://ollama.ai/" target="_blank" rel="noreferrer" style="margin-left:20px;"> <span style="font-size:20px; font-weight:bold;">🦙 Ollama</span> </a>
+    <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" alt="langchain" width="40" height="40"/> </a>
+    <a href="https://spring.io/projects/spring-ai" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-ai" width="40" height="40"/> </a>
+    <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" alt="github-copilot" width="40" height="40"/> </a>
+    <a href="https://cursor.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" alt="cursor" width="40" height="40"/> </a>
+    <a href="https://kiro.so/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/164145421" alt="kiro" width="40" height="40"/> </a>
+    <a href="https://github.com/block/goose" target="_blank" rel="noreferrer"> <img src="https://goose.block.garden/favicon.ico" alt="goose" width="40" height="40"/> </a>
+    <a href="https://github.com/ggerganov/llama.cpp" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/50412699" alt="llama.cpp" width="40" height="40"/> </a>
+    <a href="https://ollama.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" alt="ollama" width="40" height="40"/> </a>
 </p>
 
 #### 🧠 Prompting Techniques
