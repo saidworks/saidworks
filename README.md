@@ -118,10 +118,10 @@
 
 ### 🌐 Operating Systems
 <p align="left">
-    <a href="https://archlinux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/archlinux/archlinux-original-wordmark.svg" alt="arch-linux" width="40" height="40"/> </a>
-    <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/ubuntu/ubuntu-original-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
-    <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/> </a>
-    <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/windows11/windows11-original-wordmark.svg" alt="windows" width="40" height="40"/> </a>
+    <a href="https://archlinux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original-wordmark.svg" alt="arch-linux" width="40" height="40"/> </a>
+    <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
+    <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/> </a>
+    <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original-wordmark.svg" alt="windows" width="40" height="40"/> </a>
 </p>
 
 ## 📈 Most Used Languages
